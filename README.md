@@ -46,9 +46,51 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-
-### Name:
-### Register Number:
+AIM: To prototype the given part model design in 3D Printer.
+<br/>
+REQUIREMENTS:
+<br/>
+●	3D Printer machine. 
+<br/>
+● CURA 4.0 Software.
+<br/>
+<br/>
+● Autodesk Fusion 360 Software. 
+<br/>
+● System - Windows 7 or higher, 1 GB RAM.
+<br/>
+PROCEDURE:
+<br/>
+Step 1:- Check all Electrical connections.
+<br/>
+Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option as shown in below figure.
+<br/>
+Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
+<br/>
+Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
+<br/>
+Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
+<br/>
+Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
+<br/>
+Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
+<br/>
+1.	Switch on the 3d printer.
+<br/>
+2.	Place your Pen drive in USB.
+<br/>
+3.	Clean the surface bed plate.
+<br/>
+4.	Load filament into the required extruder as per the requirement.
+<br/>
+5.	Wait until the nozzle & bed plate comes into the required temperature.
+<br/>
+6.	Close the doors of the 3d printer.
+<br/>
+7.	Open the file from the USB storage and select the Print option.
+<br/>
+### Name: Joel John Jobinse
+### Register Number: 212223240062
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
