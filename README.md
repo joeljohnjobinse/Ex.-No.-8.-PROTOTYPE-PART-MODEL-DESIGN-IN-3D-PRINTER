@@ -89,6 +89,7 @@ Step 7.:- After generating the gcode format then follow the these instruction as
 <br/>
 7.	Open the file from the USB storage and select the Print option.
 <br/>
+
 ### Name: Joel John Jobinse
 ### Register Number: 212223240062
 
